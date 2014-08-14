@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# make-turtle
+# by Brandon Jackson
+
+export IDLESTARTUP='make-turtle.py'
+idle -s -n -t make-turtle
